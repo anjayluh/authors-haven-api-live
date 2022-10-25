@@ -131,7 +131,7 @@ SITE_ID = 1
 
 ADMIN_URL = "supersecret/"
 
-ADMINS = [("""Alpha Ogilo""", "api.imperfect@gmail.com")]
+ADMINS = [("""Angella Naigaga""", "anjayluh.wakabi@gmail.com")]
 
 MANAGERS = ADMINS
 
